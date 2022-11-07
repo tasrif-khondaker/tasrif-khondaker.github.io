@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; Tasrif&#039;s Profile &#8212; WordPress</title>
+	<title>Log In &lsaquo; Khondaker Tasrif Noor &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=6.1" media="all">
 <link rel="stylesheet" id="buttons-css" href="/wp-includes/css/buttons.min.css?ver=6.1" media="all">
@@ -46,11 +46,11 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="/">&larr; Go to Tasrif&#039;s Profile</a>		</p>
+			<a href="/">&larr; Go to Khondaker Tasrif Noor</a>		</p>
 			</div>
 			<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"httplocalhost\/wordpress\/wp-includes\/js\/zxcvbn.min.js"};</script>
+<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};</script>
 <script src="/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script src="/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
 <script src="/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
@@ -64,7 +64,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="/wp-includes/js/wp-util.min.js?ver=6.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"98f1dd1eef"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"ada6b6ce79"};</script>
 <script src="/wp-admin/js/user-profile.min.js?ver=6.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
