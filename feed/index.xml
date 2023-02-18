@@ -8,24 +8,24 @@
 	>
 
 <channel>
-	<title>tasrif-khondaker</title>
+	<title>Khondaker Tasrif Noor</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 18 Feb 2023 06:15:58 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Nov 2022 23:42:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>/2022/11/06/hello-world/</link>
+					<comments>/2022/11/06/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tasrif]]></dc:creator>
-		<pubDate>Sat, 18 Feb 2023 06:15:58 +0000</pubDate>
+		<pubDate>Sun, 06 Nov 2022 23:42:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/11/06/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
