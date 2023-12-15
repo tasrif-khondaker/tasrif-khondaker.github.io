@@ -34,4 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 # GitHub Pages dependencies
-gem "github-pages", "~> 228", group: :jekyll_plugins
+# gem "github-pages", "~> 228", group: :jekyll_plugins
